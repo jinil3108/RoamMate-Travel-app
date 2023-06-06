@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_navigation"
+    app:startDestination="@id/navigation_login"
+    >
+
+    <fragment
+        android:id="@+id/navigation_login"
+        android:label="Login"
+        android:name="com.techholding.android.roammate.ui.login.LoginFragment"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/login_to_phone"
+            app:destination="@+id/navigation_phone"
+            />
+        <action
+            android:id="@+id/login_to_signup"
+            app:destination="@+id/navigation_signup"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_signup"
+        android:label="Register"
+        android:name="com.techholding.android.roammate.ui.login.RegisterFragment"
+        tools:layout="@layout/fragment_register">
+
+        <action
+            android:id="@+id/signup_to_phone"
+            app:destination="@+id/navigation_phone" />
+        <action
+            android:id="@+id/signup_to_login"
+            app:destination="@id/navigation_login" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_phone"
+        android:label="Phone"
+        android:name="com.techholding.android.roammate.ui.login.PhoneFragment"
+        tools:layout="@layout/fragment_phone"
+        >
+        <action
+            android:id="@+id/phone_to_otp"
+            app:destination="@+id/navigation_otp"
+            >
+            <argument
+                android:name="phone_number"
+                app:argType="string"
+                />
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_chat"
+        android:label="chat"
+        android:name="com.techholding.android.roammate.ui.chat.ChatFragment"
+        tools:layout="@layout/fragment_chat"
+        >
+        <action
+            android:id="@+id/chat_to_explore"
+            app:destination="@+id/navigation_explore"/>
+        <action
+            android:id="@+id/chat_to_plan"
+            app:destination="@+id/navigation_plan"/>
+        <action
+            android:id="@+id/chat_to_settings"
+            app:destination="@+id/navigation_settings"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_otp"
+        android:label="OTP"
+        android:name="com.techholding.android.roammate.ui.login.OTPFragment"
+        tools:layout="@layout/fragment_otp"/>
+
+    <fragment
+        android:id="@+id/navigation_explore"
+        android:name="com.techholding.android.roammate.ui.fragment.explore.ExploreFragment"
+        android:label="@string/explore"
+        tools:layout="@layout/fragment_explore">
+        <action
+            android:id="@+id/explore_to_single_place"
+            app:destination="@+id/navigation_single_place"
+            />
+        <action
+            android:id="@+id/explore_to_chat"
+            app:destination="@+id/navigation_chat"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_plan"
+        android:name="com.techholding.android.roammate.ui.fragment.plan.PlanFragment"
+        android:label="@string/plan"
+        tools:layout="@layout/fragment_plan">
+        <action
+            android:id="@+id/plan_to_addPlan"
+            app:destination="@+id/navigation_add_plan">
+            <argument
+            android:name="placeId"
+            app:argType="string"
+            />
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.techholding.android.roammate.ui.fragment.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_settings">
+        <action
+            android:id="@+id/settings_to_editProfile"
+            app:destination="@+id/navigation_edit_profile"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_single_place"
+        android:name="com.techholding.android.roammate.ui.singleplace.SinglePlaceFragment"
+        android:label="@string/single_place_fragment"
+        tools:layout="@layout/fragment_single_place">
+        <argument
+            android:name="place"
+            app:argType="com.techholding.android.roammate.model.Place"
+            />
+        <action
+            android:id="@+id/singlePlace_to_uploadActivity"
+            app:destination="@id/navigation_uploadImage">
+            <argument
+                android:name="title"
+                app:argType="string"
+                />
+        </action>
+
+        <action
+            android:id="@+id/singlePlace_to_translationActivity"
+            app:destination="@+id/navigation_translation" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_uploadImage"
+        android:name="com.techholding.android.roammate.ui.tabs.gallery.uploadimage.UploadFragment"
+        android:label="Upload Fragment"
+        tools:layout="@layout/fragment_upload_image"
+        />
+    <fragment
+        android:id="@+id/navigation_edit_profile"
+        android:label="Edit Profile"
+        android:name="com.techholding.android.roammate.ui.EditProfileFragment"
+        tools:layout="@layout/fragment_edit_profile"
+        />
+    <fragment
+        android:id="@+id/navigation_add_plan"
+        android:name="com.techholding.android.roammate.ui.AddPlanFragment"
+        android:label="Add Plan Fragment"
+        tools:layout="@layout/fragment_add_plan"
+        />
+
+    <fragment
+        android:id="@+id/navigation_translation"
+        android:name="com.techholding.android.roammate.ui.tabs.TranslationFragment"
+        android:label="Translation Fragment"
+        tools:layout="@layout/fragment_translation"
+        />
+
+</navigation>

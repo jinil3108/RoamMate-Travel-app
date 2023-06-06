@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "662385218719",
+    "firebase_url": "https://roammate-31d8b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roammate-31d8b",
+    "storage_bucket": "roammate-31d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662385218719:android:189ed595e68c16bf57feaa",
+        "android_client_info": {
+          "package_name": "com.techholding.android.roammate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662385218719-pbqek9s78rbs093omojrm5suvjfl99nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techholding.android.roammate",
+            "certificate_hash": "e74f906fe319bc58b2d0411ae7a8695e549135bf"
+          }
+        },
+        {
+          "client_id": "662385218719-t3g1ho9a8qg0vceu7kh9896fl3to4qu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techholding.android.roammate",
+            "certificate_hash": "d8fc2c23969614b4777070e9299ad8203b751977"
+          }
+        },
+        {
+          "client_id": "662385218719-dth02ol7hoav7bso2gkvfb8c492dvv4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3f4jNde4oCL-fRvUbybU6sfCA12FgLsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662385218719-dth02ol7hoav7bso2gkvfb8c492dvv4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

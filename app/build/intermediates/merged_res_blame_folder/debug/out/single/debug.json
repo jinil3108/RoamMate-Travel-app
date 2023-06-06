@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_chat.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_baseline_favorite_border_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_plus.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/plus.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_fileupload_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/fileupload_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable-v24_google.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable-v24/google.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_bg_login_input.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/bg_login_input.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_phone.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_phone.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-anydpi-v26_fileupload_round.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-anydpi-v26/fileupload_round.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_bottom_sheet_add_dialog.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_add_dialog.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_reviews.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_reviews.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_upload.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/drawable/upload.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_message.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xhdpi_fileupload_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xhdpi/fileupload_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_trip_empty.jpg.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/trip_empty.jpg"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_navigation_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_navigation_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_single_place.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_single_place.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_scan_text.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/drawable/scan_text.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_explore.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_fileupload_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/fileupload_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-pngs-55:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_fileupload_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/fileupload_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_settings.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_fileupload_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/fileupload_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_bg_rating_bar.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/bg_rating_bar.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/font_roboto.ttf.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/font/roboto.ttf"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_bg_search_bar.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_otp.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_otp.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_round_xml.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/round_xml.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_text_dotted_underline.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/text_dotted_underline.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_upload_image.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_upload_image.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_top_places.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_top_places.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_gallery_view.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_gallery_view.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_recieve_round_box.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/recieve_round_box.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_round_button.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_trip_recycler_view.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_trip_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_baseline_keyboard_voice_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/baseline_keyboard_voice_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_send_round_box.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/send_round_box.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-anydpi-v26_fileupload.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-anydpi-v26/fileupload.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/font_book_font.TTF.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/font/book_font.TTF"
+    },
+    {
+        "merged": "com.techholding.android.roammate.app-merged_res-60:/layout_item_hotels.xml.flat",
+        "source": "com.techholding.android.roammate.app-main-62:/layout/item_hotels.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_plan.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_plan.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_hotels.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_hotels.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_translation.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_translation.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_baseline_delete_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable-v24_ic_baseline_holiday_24.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable-v24/ic_baseline_holiday_24.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_send.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/send.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_star_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_settings_suggest_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_settings_suggest_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_privacy_tip_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_privacy_tip_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_register.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_edit_profile.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_bg_nav_color.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/bg_nav_color.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_item_place.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_place.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_login.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_description.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_chaticon.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/chaticon.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_gallery.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_add_plan.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_add_plan.xml"
+    },
+    {
+        "merged": "com.techholding.android.roammate.app-merged_res-60:/layout_bottom_sheet_dialog.xml.flat",
+        "source": "com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxhdpi_fileupload.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxhdpi/fileupload.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_fragment_reviews.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_nightlight_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_nightlight_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/navigation_main_navigation.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/navigation/main_navigation.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/mipmap-xxxhdpi_fileupload.png.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-debug-61:/mipmap-xxxhdpi/fileupload.png"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/activity_main.xml"
+    }
+]

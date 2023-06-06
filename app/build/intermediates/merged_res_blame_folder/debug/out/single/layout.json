@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_gallery_view.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_gallery_view.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_place.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_place.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_otp.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_otp.xml"
+    },
+    {
+        "merged": "com.techholding.android.roammate.app-mergeDebugResources-59:/layout/bottom_sheet_dialog.xml",
+        "source": "com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_hotels.xml",
+        "source": "com.techholding.android.roammate.app-main-62:/layout/item_hotels.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_settings.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_upload_image.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_upload_image.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_reviews.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_reviews.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_register.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_plan.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_plan.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_top_places.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_top_places.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_explore.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_trip_recycler_view.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_trip_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_login.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_translation.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_translation.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_edit_profile.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_reviews.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/bottom_sheet_add_dialog.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_add_dialog.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_chat.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_message.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_description.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/bottom_sheet_dialog.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_phone.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_phone.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_single_place.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_single_place.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_gallery.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/fragment_add_plan.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/fragment_add_plan.xml"
+    },
+    {
+        "merged": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-mergeDebugResources-59:/layout/item_hotels.xml",
+        "source": "/Users/jinilpatel/.gradle/daemon/7.4/com.techholding.android.roammate.app-main-62:/layout/item_hotels.xml"
+    }
+]

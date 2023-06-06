@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/createTrip"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginHorizontal="19dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_login_input"
+        android:fontFamily="@font/roboto"
+        android:hint="@string/create_your_trip"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:paddingHorizontal="16dp"
+        android:textColorHint="@color/hint_dark"
+        android:textSize="13sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/add_trip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/create"
+        android:background="@drawable/bg_login_input"
+        android:textSize="13sp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:fontFamily="@font/book_font"
+        android:paddingHorizontal="10dp"
+        android:backgroundTint="@color/black"
+        android:layout_marginTop="14dp"
+        android:layout_marginHorizontal="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/createTrip"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

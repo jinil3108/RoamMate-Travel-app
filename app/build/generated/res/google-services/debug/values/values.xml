@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">662385218719-dth02ol7hoav7bso2gkvfb8c492dvv4o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://roammate-31d8b-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">662385218719</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3f4jNde4oCL-fRvUbybU6sfCA12FgLsQ</string>
+    <string name="google_app_id" translatable="false">1:662385218719:android:189ed595e68c16bf57feaa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3f4jNde4oCL-fRvUbybU6sfCA12FgLsQ</string>
+    <string name="google_storage_bucket" translatable="false">roammate-31d8b.appspot.com</string>
+    <string name="project_id" translatable="false">roammate-31d8b</string>
+</resources>
